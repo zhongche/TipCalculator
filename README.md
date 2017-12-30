@@ -33,13 +33,14 @@ The following **additional** features are implemented:
 
   Here's a walkthrough of implemented user stories:
 
-  <img src='/Users/destiny/Desktop/TipCalculator/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  ![demo](https://user-images.githubusercontent.com/18312702/34458003-a77ad640-ed77-11e7-966e-15e30b772a70.gif)
 
   GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
   Describe any challenges encountered while building the app.
+  
     A challenge I encountered was working with UINavigationBar. I tried adding multiple items to the UIBarButtonItem
     but when adding more than three things, it would only display two items and the rest of items vanishes.
     Also, while building the app, my computer simulator only works with iPhone 5S. From iPhone 6 and above, 
